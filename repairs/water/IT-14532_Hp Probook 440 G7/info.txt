@@ -1,0 +1,5 @@
+Ticket ID: IT-14532
+Device: HP ProBook 440 G7
+Reported Issue: Left and right touchpad buttons completely unresponsive due to liquid spill.
+----------------------------------------
+Performed Work: Fully disassembled the laptop to extract the touchpad module. Identified sticky liquid residue under the tactile dome switches causing mechanical failure. Performed deep chemical cleaning of the touchpad PCB and membrane switches, fully restoring click functionality and tactile feedback. Additionally, conducted complete preventative maintenance on the cooling system, removing degraded thermal compound and applying factory-grade Phase-Change Material (PCM) to the CPU die to ensure optimal, long-lasting thermal performance.

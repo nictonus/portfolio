@@ -1,0 +1,5 @@
+Ticket ID: IT-154011
+Device: Apple iPhone 13 Pro Max
+Reported Issue: Battery and display replacement
+----------------------------------------
+Performed Work: Full disassembly, replacement of the degraded battery and faulty display assembly, reinstallation of internal shields, and post-repair functional testing including touch response and power delivery.

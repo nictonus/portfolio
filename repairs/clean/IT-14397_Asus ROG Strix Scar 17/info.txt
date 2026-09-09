@@ -1,0 +1,5 @@
+Ticket ID: IT-14397
+Device: Asus ROG Strix Scar 17
+Reported Issue: Overheating and system shutdown risks due to degraded liquid metal.
+----------------------------------------
+Performed Work: Advanced Liquid Metal (LM) servicing. Extracted the complex cooling module and safely contained/removed the oxidized liquid metal residue. Inspected and reapplied conformal coating (insulation) around the exposed SMD capacitors on the processor package to guarantee absolute protection against electrical shorts. Precisely applied fresh gallium-based Liquid Metal to the CPU die, ensuring perfect surface tension and spread. Re-sealed the thermal barrier sponge and verified catastrophic-fail-safe temperatures under extreme benchmark loads.

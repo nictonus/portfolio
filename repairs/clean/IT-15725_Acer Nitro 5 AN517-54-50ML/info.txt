@@ -1,0 +1,5 @@
+Ticket ID: IT-15725
+Device: Acer Nitro 5 AN517-54-50ML
+Reported Issue: Thermal throttling and high operating temperatures during load.
+----------------------------------------
+Performed Work: Comprehensive cooling system overhaul. Disassembled the chassis and extracted the heatsink assembly. Performed ultrasonic/chemical cleaning of the copper contact plates. Replaced degraded factory thermal paste with high-performance Phase-Change Material (PCM) on both the CPU and GPU dies for superior longevity. Additionally, calculated clearances and installed appropriately sized, high-thermal-conductivity thermal pads on the VRM and VRAM components to ensure stable power delivery temperatures.

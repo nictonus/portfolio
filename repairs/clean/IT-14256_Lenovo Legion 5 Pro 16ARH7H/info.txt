@@ -1,0 +1,5 @@
+Ticket ID: IT-14256
+Device: Lenovo Legion 5 Pro 16ARH7H
+Reported Issue: Preventative thermal maintenance to resolve fan noise and thermal throttling.
+----------------------------------------
+Performed Work: Precision thermal restoration. Lenovo Legion laptops require specific thermal interfaces to maintain factory cooling efficiency. Carefully removed the old, hardened thermal compound. Treated the bare CPU/GPU silicon and heatsink surfaces with electronics-grade solvents. Applied factory-spec Phase-Change Material (PCM, Honeywell PTM7950 equivalent) to strictly adhere to OEM thermal design parameters. Reassembled and stress-tested to confirm sustained peak performance without thermal capping.

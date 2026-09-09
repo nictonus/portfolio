@@ -1,0 +1,5 @@
+Ticket ID: IT-15561
+Device: Alldocube T1012
+Reported Issue: Device not charging due to physical damage.
+----------------------------------------
+Performed Work: Component-level replacement of the Type-C system connector. Microscopic inspection revealed torn PCB pads and broken logic board traces caused by mechanical stress. Performed precision micro-soldering to rebuild the damaged copper traces. Soldered a new Type-C port and applied UV-curable solder mask to insulate the repaired tracks and structurally reinforce the connector's mounting points. Successfully restored stable power delivery.

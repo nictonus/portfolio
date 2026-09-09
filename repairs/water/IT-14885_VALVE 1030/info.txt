@@ -1,0 +1,7 @@
+Ticket ID: IT-14885
+Device: Valve Steam Deck (Model 1030)
+Reported Issue: Erratic input and short circuits on the left analog stick board due to liquid damage (water ingress) sustained over a year ago.
+----------------------------------------
+Performed Work: Completely disassembled the console to isolate the corroded logic board zones. Performed deep chemical cleaning to neutralize severe, year-old oxidation, followed by precision micro-soldering to reflow and secure compromised SMD components.
+Hardware Upgrades: At the client's request, upgraded both left and right analog stick modules to premium Gulikit Hall Effect electromagnetic sensors, permanently eliminating the risk of stick drift. Additionally, overhauled the APU thermal system by replacing degraded factory thermal paste with high-performance Phase-Change Material (PCM).
+Outcome: Successfully completed full input calibration (showcasing flawless zero deadzone tracking) and thermal stress testing.

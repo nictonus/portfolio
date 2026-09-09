@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hardware Engineering Portfolio</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 2rem; background-color: #f8f9fa; }
+        header { border-bottom: 2px solid #0366d6; padding-bottom: 1rem; margin-bottom: 2rem; }
+        h1 { color: #24292e; margin-bottom: 0.5rem; }
+        h2 { color: #24292e; margin-top: 2rem; border-bottom: 1px solid #eaecef; padding-bottom: 0.3rem; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin-top: 1.5rem; }
+        .card { background: white; padding: 1.5rem; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); border: 1px solid #e1e4e8; transition: transform 0.2s; }
+        .card:hover { transform: translateY(-3px); box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        .card h3 { margin-top: 0; color: #0366d6; }
+        ul { padding-left: 1.2rem; }
+        a { color: #0366d6; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .badge { background: #2ea44f; color: white; padding: 0.2rem 0.5rem; border-radius: 2em; font-size: 0.8rem; font-weight: bold; margin-left: 0.5rem; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Volodymyr Strutynskyi</h1>
+        <p>Hardware Engineer & Electronics Repair Technician | Ivano-Frankivsk, Ukraine</p>
+    </header>
+
+    <section>
+        <h2>Professional Portfolio</h2>
+        <p>This index serves as a navigational hub for my hardware engineering portfolio, documenting extensive experience in component-level diagnostics, modular replacements, and OEM-compliant service procedures.</p>
+        
+        <div class="grid">
+            <div class="card">
+                <h3>📸 Visual Case Studies</h3>
+                <p>Detailed teardown photography and technical reports categorized by repair type.</p>
+                <ul>
+                    <li><a href="repairs/clean/">Thermal & Preventative (4)</a></li>
+                    <li><a href="repairs/solder/">Micro-Soldering (4)</a></li>
+                    <li><a href="repairs/water/">Liquid Damage (4)</a></li>
+                    <li><a href="repairs/phones/">Mobile Devices (4)</a></li>
+                </ul>
+            </div>
+            
+            <div class="card">
+                <h3>📹 Video Logs</h3>
+                <p>Hardware-accelerated (Intel QSV) compressed video documentation of complex logic board swaps and wearable display replacements.</p>
+                <ul>
+                    <li><a href="video/">View Video Directory</a></li>
+                </ul>
+            </div>
+
+            <div class="card">
+                <h3>📊 Comprehensive Database</h3>
+                <p>A consolidated database of translated repair tickets, including diagnostics and completed works.</p>
+                <ul>
+                    <li><a href="REPAIR_LOG.csv">View Master CSV Log <span class="badge">1.7k+ Entries</span></a></li>
+                </ul>
+            </div>
+
+            <div class="card">
+                <h3>📜 Certifications</h3>
+                <p>OEM service qualifications and academic credentials.</p>
+                <ul>
+                    <li><a href="pdf/dell-cer/">Dell DSP / ISG Certifications</a></li>
+                    <li><a href="pdf/hp cer/">HP Service Qualifications</a></li>
+                    <li><a href="pdf/">Programming (C++, Python, JS)</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Technical Stack & Equipment</h2>
+        <ul>
+            <li><strong>Hardware Tools:</strong> Quick 857DW+ Hot Air, Sunshine LS4, BGA Stencils, KiCad, FreeCAD.</li>
+            <li><strong>Software & Automation:</strong> Python (OpenPyXL, Playwright), FFmpeg (Hardware Transcoding), Linux (Arch/CachyOS), RouterOS.</li>
+        </ul>
+    </section>
+</body>
+</html>

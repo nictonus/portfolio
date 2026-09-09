@@ -1,0 +1,5 @@
+Ticket ID: IT-154028
+Device: Apple iPhone 11 Pro
+Reported Issue: Battery replacement
+----------------------------------------
+Performed Work: Safe disassembly of the device, removal of the degraded battery cell, installation of a new replacement battery, reassembly of internal brackets, and post-repair testing including battery health status verification and charging performance check.

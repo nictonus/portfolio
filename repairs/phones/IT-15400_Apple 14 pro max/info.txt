@@ -1,0 +1,5 @@
+Ticket ID: IT-15401
+Device: Apple iPhone Pro Max
+Reported Issue: Rear glass replacement
+----------------------------------------
+Performed Work: Complete removal of damaged rear glass panel, precision cleaning of the housing frame from residual factory adhesive and glass fragments, surface preparation, and application of structural adhesive/sealant for the new rear panel installation, followed by MagSafe wireless charging functionality testing.

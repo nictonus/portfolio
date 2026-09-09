@@ -1,0 +1,5 @@
+Ticket ID: IT-14886
+Device: HUAWEI MediaPad T5
+Reported Issue: Malfunctioning power button due to prior liquid damage.
+----------------------------------------
+Performed Work: Diagnosed intermittent power button response caused by liquid oxidation inside the tactile switch mechanism. Instead of performing a standard modular replacement of the FPC cable, executed a precise component-level restoration. Carefully peeled back the protective membrane, removed the metal dome switches, and chemically cleaned the oxidized contact pads on the flex cable. Reassembled the tactile switches, fully restoring original click feedback and reliable power functionality.

@@ -1,0 +1,5 @@
+Ticket ID: IT-14133
+Device: Logitech G502 X
+Reported Issue: Left button auto-clicking and sticking due to severe liquid damage (champagne spill).
+----------------------------------------
+Performed Work: Complete disassembly and electronic board restoration to remove liquid oxidation. Identified failure in the proprietary optical switches. Due to the unavailability of OEM replacement optical switches on the market, performed a custom hardware modification (PCB trace modding) to convert the optical switch mechanism into a standard mechanical switch circuit. Successfully installed high-quality mechanical microswitches (L/R click), fully restoring the device's functionality through reverse engineering and custom soldering.

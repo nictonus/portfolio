@@ -1,0 +1,5 @@
+Ticket ID: IT-154015
+Device: Google Pixel 8
+Reported Issue: Battery replacement
+----------------------------------------
+Performed Work: Careful disassembly of the device, removal of the degraded battery pack, installation of a new replacement battery, reassembly, and testing of power delivery and charging functionality.

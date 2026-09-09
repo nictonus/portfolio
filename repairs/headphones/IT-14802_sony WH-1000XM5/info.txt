@@ -1,0 +1,5 @@
+Ticket ID: IT-14802
+Device: Sony WH-1000XM5
+Reported Issue: Broken headband hinge (customer provided the replacement hinge).
+----------------------------------------
+Performed Work: Executed a highly complex mechanical repair and wire routing. Because the replacement hinge did not accommodate the pre-assembled multi-core internal cable connector, I had to manually de-pin the delicate 14-wire FPC-style connector. Carefully routed the bare wiring harness through the new structural hinge assembly, and then meticulously re-pinned the micro-connector in the exact original sequence. Reassembled the headset and verified full sensor, audio, and active noise cancellation (ANC) functionality.

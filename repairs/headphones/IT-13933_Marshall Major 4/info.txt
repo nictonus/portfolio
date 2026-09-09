@@ -1,0 +1,5 @@
+Ticket ID: IT-13933
+Device: Marshall Major 4
+Reported Issue: Control button malfunction and audio loss, though the device showed charging signs (cable issue suspected).
+----------------------------------------
+Performed Work: Complete disassembly of the headphone earcups to access the main audio routing PCB. Diagnosed a severed internal transmission cable. Desoldered the damaged wiring, prepared a new internal cable, and performed precision micro-soldering to the designated contact pads (L/R audio channels, Ground, and Battery lines). Safely reassembled the housing and successfully tested full audio output and control functionality.

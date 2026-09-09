@@ -1,0 +1,5 @@
+Ticket ID: IT-14953
+Device: HP ZBook Firefly 14 G7 Mobile Workstation
+Reported Issue: Keyboard failure requiring full replacement.
+----------------------------------------
+Performed Work: Executed a complex keyboard integration on a premium enterprise workstation. Stripped the device down to the bare topcase and severed the factory plastic rivets to extract the defective keyboard. Positioned the new replacement keyboard and performed meticulous thermal plastic riveting (plastic welding) across all anchor points. Secured the metal shielding perfectly to ensure a rigid, factory-grade typing experience with absolutely zero chassis flex.

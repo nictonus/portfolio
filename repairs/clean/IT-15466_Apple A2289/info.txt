@@ -1,0 +1,5 @@
+Ticket ID: IT-15466
+Device: Apple MacBook Pro 13" (A2289)
+Reported Issue: Fan running at maximum RPM, system running hot during basic tasks.
+----------------------------------------
+Performed Work: Complete Apple ecosystem preventative maintenance. Safely performed a logic board teardown following strict ESD protocols. Isolated the battery circuit prior to component removal. Cleaned internal chassis dust accumulation restricting airflow. Removed the heatsink, cleaned the dried OEM thermal compound, and applied premium non-conductive thermal paste to the Intel CPU die. Reassembled the device applying correct torque specifications to internal fasteners and verified fan curve normalization.

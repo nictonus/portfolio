@@ -1,0 +1,5 @@
+Ticket ID: IT-010412
+Device: Apple A2485 (MacBook Pro 16")
+Reported Issue: Keyboard requiring key-by-key washing following the ingress of moisture, dirt, and foreign particles.
+----------------------------------------
+Performed Work: Executed a full device restoration after moisture and dirt contamination. Instead of resorting to an expensive and highly invasive full top-case replacement, performed a meticulous key-by-key disassembly. Safely removed every delicate keycap without snapping the fragile scissor-switch mechanisms. Conducted deep chemical cleaning on each individual rubber dome, scissor strut, and keycap to completely remove sticky residue. Carefully reassembled the entire keyboard matrix, successfully restoring original tactile feedback and fully reliable input functionality.

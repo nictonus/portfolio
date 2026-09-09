@@ -1,0 +1,5 @@
+Ticket ID: IT-15014
+Device: Acer Aspire 5 (A515-45G)
+Reported Issue: Liquid damage resulting in a dead keyboard and unresponsive left USB ports.
+----------------------------------------
+Performed Work: Completely stripped the topcase assembly to extract the liquid-damaged keyboard. Because the original keyboard is permanently factory-riveted to the palm rest, performed precision thermal plastic riveting (plastic welding) to securely integrate the new replacement keyboard into the chassis, ensuring perfect alignment and zero flex. Additionally, conducted complete hardware preventative maintenance on the cooling system, replacing the degraded thermal compound with professional-grade thermal paste.
