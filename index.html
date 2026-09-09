@@ -5,14 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hardware Engineering Portfolio</title>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 2rem; background-color: #f8f9fa; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 1000px; margin: 0 auto; padding: 2rem; background-color: #f8f9fa; }
         header { border-bottom: 2px solid #0366d6; padding-bottom: 1rem; margin-bottom: 2rem; }
         h1 { color: #24292e; margin-bottom: 0.5rem; }
         h2 { color: #24292e; margin-top: 2rem; border-bottom: 1px solid #eaecef; padding-bottom: 0.3rem; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin-top: 1.5rem; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 1.5rem; }
         .card { background: white; padding: 1.5rem; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); border: 1px solid #e1e4e8; transition: transform 0.2s; }
         .card:hover { transform: translateY(-3px); box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
         .card h3 { margin-top: 0; color: #0366d6; }
+        .video-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 4px; margin-top: 1rem; }
+        .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
         ul { padding-left: 1.2rem; }
         a { color: #0366d6; text-decoration: none; }
         a:hover { text-decoration: underline; }
@@ -28,11 +30,11 @@
     <section>
         <h2>Professional Portfolio</h2>
         <p>This index serves as a navigational hub for my hardware engineering portfolio, documenting extensive experience in component-level diagnostics, modular replacements, and OEM-compliant service procedures.</p>
-        
+
         <div class="grid">
             <div class="card">
                 <h3>📸 Visual Case Studies</h3>
-                <p>Detailed teardown photography and technical reports categorized by repair type.</p>
+                <p>Detailed teardown photography and technical reports.</p>
                 <ul>
                     <li><a href="repairs/clean/">Thermal & Preventative (4)</a></li>
                     <li><a href="repairs/solder/">Micro-Soldering (4)</a></li>
@@ -40,18 +42,10 @@
                     <li><a href="repairs/phones/">Mobile Devices (4)</a></li>
                 </ul>
             </div>
-            
-            <div class="card">
-                <h3>📹 Video Logs</h3>
-                <p>Hardware-accelerated (Intel QSV) compressed video documentation of complex logic board swaps and wearable display replacements.</p>
-                <ul>
-                    <li><a href="video/">View Video Directory</a></li>
-                </ul>
-            </div>
 
             <div class="card">
                 <h3>📊 Comprehensive Database</h3>
-                <p>A consolidated database of translated repair tickets, including diagnostics and completed works.</p>
+                <p>A consolidated database of translated repair tickets.</p>
                 <ul>
                     <li><a href="REPAIR_LOG.csv">View Master CSV Log <span class="badge">1.7k+ Entries</span></a></li>
                 </ul>
@@ -70,10 +64,42 @@
     </section>
 
     <section>
+        <h2>📹 Video Case Studies</h2>
+        <p>Hardware-accelerated compressed video documentation of complex logic board swaps and wearable display replacements.</p>
+
+        <div class="grid">
+            <div class="card">
+                <h3>ThinkPad X1 Carbon</h3>
+                <div class="video-container">
+                    <iframe src="https://www.youtube.com/embed/hgtKXzz7p6E" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="card">
+                <h3>HP Laptop Motherboard</h3>
+                <div class="video-container">
+                    <iframe src="https://www.youtube.com/embed/5kQAwf0S46o" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="card">
+                <h3>Dell Alienware Teardown</h3>
+                <div class="video-container">
+                    <iframe src="https://www.youtube.com/embed/hhrDcUSg-yI" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="card">
+                <h3>Huawei Watch Display</h3>
+                <div class="video-container">
+                    <iframe src="https://www.youtube.com/embed/d6Q6rrCIL6c" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
         <h2>Technical Stack & Equipment</h2>
         <ul>
             <li><strong>Hardware Tools:</strong> Quick 857DW+ Hot Air, Sunshine LS4, BGA Stencils, KiCad, FreeCAD.</li>
-            <li><strong>Software & Automation:</strong> Python (OpenPyXL, Playwright), FFmpeg (Hardware Transcoding), Linux (Arch/CachyOS), RouterOS.</li>
+            <li><strong>Software & Automation:</strong> Python (OpenPyXL, Playwright), FFmpeg, Linux (Arch/CachyOS), RouterOS.</li>
         </ul>
     </section>
 </body>
