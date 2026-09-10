@@ -65,7 +65,13 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Горизонтальний ряд для фоток з прокруткою */
+.back-link {
+    display: inline-block;
+    margin-bottom: 1.5rem;
+    font-weight: 600;
+}
+
+/* Горизонтальна прокрутка для фотографій */
 .photo-row {
     display: flex;
     gap: 1rem;
@@ -82,13 +88,7 @@ a:hover {
     border: 1px solid var(--accent);
 }
 
-.back-link {
-    display: inline-block;
-    margin-bottom: 1.5rem;
-    font-weight: 600;
-}
-
-/* Додай цей клас у твій style.css для сітки відео */
+/* Сітка для відео (по 2 в ряд) */
 .video-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -112,7 +112,8 @@ a:hover {
     background: #000;
 }
 
-.video-container iframe {
+.video-container iframe,
+.video-container video {
     position: absolute;
     top: 0;
     left: 0;
